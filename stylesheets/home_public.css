@@ -1,0 +1,98 @@
+        body {
+			font-family: Verdana, Arial, Helvetica, sans-serif;
+			background: #EEE4B9;
+		}
+        #header {
+			height: 70px;
+			margin: 0; padding: 0; text-align: left;
+			background: #1A446C; color: #D4E6F4;
+		}
+		#header img {
+			display: inline;
+		}
+		#navigation {
+			float: left;
+			width: 250px; height: 800px;
+			margin: 0; padding: 0 2em;
+			color: #D4E6F4; background: #ED0C1B;
+		}
+		a { 
+			color: #111; 
+		}
+		h1 {
+			margin: 0;
+		}
+		h2 {
+
+			color: #111;
+		}
+	    #page {
+	    	padding-top: 25px;
+	    	float: right; height: 100%;
+			padding-left: 2em; vertical-align: top;
+			background: #EEE4B9;
+		}
+		#page1 {
+	    	padding-top: 25px;
+	    	 height: 100%;
+			padding-left: 2em; vertical-align: top;
+			background: #EEE4B9;
+		
+		}
+		#page h2 { color: #8D0D19; margin-top: 1em; }
+		#page a {
+			color: blue;
+		}
+		#field {
+			width: 33%;
+			margin-left: 338px;
+			margin-top: 100px;
+			padding-left: 2em; vertical-align: top;
+			background: #EEE4B9;
+			border-radius: 25px;
+			border-width: 5px;
+			border-color: black;
+		}
+		#field2 {
+			margin-left: 25px;
+			width: 15%;
+	    	float: left; height: 100%;
+			padding-left: 2em; vertical-align: top;
+			background: #EEE4B9;
+			border-radius: 25px;
+			border-width: 5px;
+			border-color: black;
+		}
+		#field2 a {
+			color: blue;
+		}
+		#field3 {
+			margin-left: 25px;
+			width: 25%;
+	    	float: left; height: 100%;
+			padding-left: 2em; vertical-align: top;
+			background: #EEE4B9;
+			border-radius: 25px;
+			border-width: 5px;
+			border-color: black;
+		}
+		#field3 a {
+			color: blue;
+		}
+		#field1 {
+			border-radius: 25px;
+			border-width: 5px;
+			border-color: black;
+
+		}
+
+		#field2 img {
+			margin: 0px;
+			float: left;
+		}
+
+#hero {
+    height:300px;
+    width:960px;
+}
+
